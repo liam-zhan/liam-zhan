@@ -3,7 +3,8 @@
 - My name is **Liam Zhan**
 - I am a student pursuing honours business administration at **Western University**
 - Interested in fintech, investment banking and artificial intelligence
-- Resume: [Liam Zhan Resume.pdf](https://github.com/user-attachments/files/16102483/liamzhanresume.pdf)
+- Resume: [liamzhanresume.pdf](https://github.com/user-attachments/files/16102483/liamzhanresume.pdf)
+- Website: [liamzhan.com](https://liam-zhan.github.io/websiteresume/)
 
   
 **Experienced with**
