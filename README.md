@@ -3,6 +3,8 @@
 - My name is **Liam Zhan**
 - I am a student pursuing honours business administration at **Western University**
 - Interested in fintech and investment banking
+- Resume: [Liam Zhan Resume.pdf](https://github.com/user-attachments/files/16102483/liamzhanresume.pdf)
+
   
 **Experienced with**
 - Python | Java | Javascript | Flask | Web Design
