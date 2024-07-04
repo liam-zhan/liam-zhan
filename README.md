@@ -7,7 +7,7 @@
 
   
 **Experienced with**
-- Python | Java | Javascript | Flask | Web Design
+- Python | Java | Javascript | Flask | HTML/CSS/SCSS | Web Design
 
 **Socials**
 - 📧 [Email](lzha87@uwo.ca) | 💼 [Linkedin](https://www.linkedin.com/in/liamzhan/)
