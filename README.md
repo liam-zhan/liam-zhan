@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 - My name is **Liam Zhan**
-- I am a student pursuing computer science at **Western University**
+- I am a student pursuing computer science and finance at **Western University**
 - Interested in fintech, investment banking, and artificial intelligence
-- Resume: [liamzhanresume.pdf](https://github.com/user-attachments/files/16102483/liamzhanresume.pdf)
-- Website: [liamzhan.com](https://liam-zhan.github.io/websiteresume/)
+- Resumes: [Finance Resume.pdf](https://github.com/user-attachments/files/18999864/Liam.Zhan.-.Resume.pdf), [CS Resume.pdf](https://github.com/user-attachments/files/18999865/Liam.Zhan.-.CS.Resume.pdf)
 
   
 **Experienced with**
